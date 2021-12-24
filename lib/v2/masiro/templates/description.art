@@ -1,0 +1,8 @@
+<br /><br />
+<a href="{{ link }}" target="_blank">{{ title }}</a><br />
+<p>{{ author }}</p><br />
+<p>{{ translator }}</p><br />
+<p>{{ tags }}</p><br />
+<p>{{ words }}</p><br />
+<a href="{{ new_up_link }}" target="_blank">{{ new_up }}</a><br />
+<p><img src="{{ img }}" referrerpolicy="no-referrer"></p>
