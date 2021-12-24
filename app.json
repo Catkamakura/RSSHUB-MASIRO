@@ -28,6 +28,9 @@
         },
         "YOUTUBE_KEY": {
             "required": false
+        },
+        "MASIRO_COOKIE": {
+            "required": false
         }
     }
 }
